@@ -1,0 +1,40 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: blueviolet;
+}
+.login {
+  width: 200px;
+  height: 30px;
+  margin-top: 200px;
+  margin-left: 35%;
+}
+#user {
+  width: 200px;
+  height: 30px;
+  margin-top: 20px;
+  margin-left: 35%;
+}
+
+#email {
+  width: 200px;
+  height: 30px;
+}
+
+#password {
+  width: 200px;
+  height: 30px;
+}
+
+.error {
+  text-align: center;
+  margin-top: 10px;
+  color: black;
+}
+
+.invalid {
+  color: red;
+}
